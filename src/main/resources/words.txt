@@ -1,0 +1,7 @@
+hello world
+hello java
+hello kafka
+I love you
+me too
+apache flink
+flink test
